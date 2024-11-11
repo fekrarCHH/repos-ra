@@ -1,2 +1,3 @@
 show iushns jsdid jsdn
 show iushns jsdid jsdn who k,now jcizec 
+another try with git revert 
